@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project has moved to the main portfolio repository: [Portfolio Projects](https://github.com/nicholemunlawin/portfolio-projects/tree/main/python-projects/personal-expense-tracker-project). This repository is archived and kept for history/reference.
+
 # Personal Expense Tracker
 
 A simple command-line Python app for recording daily expenses, viewing saved entries, and checking total spending.
